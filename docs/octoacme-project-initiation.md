@@ -32,6 +32,10 @@ Whenever a new project idea or feature proposal is ready to be explored.
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Business Analyst: requirements and scope documented
+- [ ] UX Designer: initial user research or design considerations captured
+- [ ] Technical Writer: documentation needs identified
+- [ ] Support Lead: support readiness and training needs noted
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)

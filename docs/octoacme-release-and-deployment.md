@@ -18,6 +18,9 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 ## Deployment Checklist
 - [ ] Deployment window scheduled (if needed)
 - [ ] Backup or snapshot (if applicable)
+- [ ] QA Lead: release readiness sign-off provided
+- [ ] Technical Writer: release notes and documentation published
+- [ ] Support Lead: support team trained and runbooks updated
 - [ ] Deploy to staging and run smoke tests
 - [ ] Deploy to production (automated pipeline preferred)
 - [ ] Run post-deploy verifications
